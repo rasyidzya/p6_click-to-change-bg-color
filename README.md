@@ -1,15 +1,16 @@
-# Random Paragraph Generator 📖
+# Click to Change Background 🌈
 
-Generate random paragraphs with ease. Whether you need placeholder text for a design, mockup, or just to fill space in a document, our Random Paragraph Generator has got you covered.
+A fun and interactive way to personalize your screen. With every click, experience a new background color!
 
-<!-- ![Project Screenshot](path-to-screenshot-image.png)
+<!--![Project Screenshot](path-to-screenshot-image.png)
 <!-- Replace with a link to your project's screenshot -->
 
 ## 🌟 Features
 
-- **Quick Generation**: Instantly get random paragraphs.
-- **Customizable**: Define the number of paragraphs you want.
-- **Diverse Content**: Paragraphs sourced from a variety that have been decided before.
+- **One Click Change**: Instantly switch to a new background color with just a click.
+- **Random Colors**: Offers a wide range of random colors, ensuring a fresh look every time.
+- **Simple UI**: Minimalistic design for ease of use.
+
 
 ## 🛠️ Tech Stack
 
